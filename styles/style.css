@@ -265,12 +265,11 @@
 }
 .footer {
   display: flex;
-  background: #000000; 
-  color: white; 
-  padding: 20px;
+  background: #000000;
+  color: white;
+  padding: 0px;
   text-align: center;
   min-height: 350px;
-  padding: 0;
 }
 .footer__columns {
   width: 90%;
